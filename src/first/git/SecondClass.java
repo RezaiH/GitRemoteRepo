@@ -14,4 +14,7 @@ public class SecondClass {
 		System.out.println("Are You from Afghanistan?");
 		System.out.println("Yes, I am from Afghanistan.");
 	}
+	public void pushToRepoTwo() {
+		System.out.println("is it pushed to the remote repository?");
+	}
 }
