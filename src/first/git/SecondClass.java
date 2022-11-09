@@ -9,4 +9,9 @@ public class SecondClass {
 	public void pushToRepo() {
 		System.out.println("is it pushed to the remote repository?");
 	}
+	
+	public static void howAreYou(){
+		System.out.println("Are You from Afghanistan?");
+		System.out.println("Yes, I am from Afghanistan.");
+	}
 }
